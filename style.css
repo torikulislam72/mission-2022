@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin: 50px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 65%;
+}
+#mission-area{
+    background-color: palegreen;
+    padding-left: 5px;
+    padding-bottom: 5%;
+}
+#vision-area{
+    background-color: purple;
+    padding-left: 5px;
+    padding-bottom: 5px;
+
+}
+#goals-area{
+    background-color: seagreen;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.blue-color{
+    color: blue;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.main-area h1{
+    text-align: center;
+}
+.community-area{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+.final-area h1{
+    text-align: center;
+}
+.development-area{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 20%;
+}
+#web-development-area{
+    background-color: thistle;
+    padding-left: 5px;
+}
+#android-app-development{
+    background-color: tomato;
+    padding-left: 5px;
+}
+#ios-app-development{
+    background-color: teal;
+    padding-left: 5px;
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+}
+.footer-color{
+    color: orange;
+}
